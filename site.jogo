@@ -1,0 +1,211 @@
+c<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Mario</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBO4_LVNrnOdOJkIuUFCAshLz-6bQoq3_ukA&s" alt="">
+    <h1>Super Mario</h1>
+    <nav>
+        <ul>
+            <li><a href="#sobre">Sobre o Jogo</a></li>
+            <li><a href="#console">Console</a></li>
+            <li><a href="#especificacoes">Especificações Técnicas</a></li>
+            <li><a href="#como-jogar">Como Jogar</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section id="sobre">
+        <h2>Sobre o Jogo</h2>
+        <p>Super Mario é um dos jogos mais icônicos da história dos videogames, criado pela Nintendo. Foi lançado inicialmente em 1985 para o console Nintendo Entertainment System (NES). O jogo foi desenvolvido por Shigeru Miyamoto e se tornou um fenômeno cultural.</p>
+        <p>A história gira em torno do encanador italiano Mario, que embarca em uma aventura para resgatar a Princesa Peach do vilão Bowser, o rei dos Koopas, no Reino do Cogumelo. Mario enfrenta diversos desafios ao longo do caminho, incluindo inimigos como Goombas, Koopa Troopas e Bowser Jr., além de enfrentar obstáculos como poços, lava e plataformas móveis.</p>
+        <p>Super Mario apresenta jogabilidade de plataforma clássica, onde os jogadores controlam Mario enquanto ele corre, pula e usa power-ups para avançar pelos níveis. O jogo é conhecido por sua jogabilidade acessível e desafiadora, personagens carismáticos e trilha sonora memorável.</p>
+        <p>A popularidade de Super Mario levou ao lançamento de inúmeras sequências e spin-offs, incluindo Super Mario Bros. 2, Super Mario Bros. 3, Super Mario World, Super Mario 64, entre outros. O personagem Mario tornou-se o mascote oficial da Nintendo e é amplamente reconhecido como um dos ícones mais importantes da indústria de videogames.</p>
+        <section id="imagens">
+        <img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/04/super-mario-bros-se-torna-maior-adaptac%CC%A7a%CC%83o-de-jogo-para-cinema.jpg" alt="imagem-mario">
+    </section></p>
+    </section>
+
+    <section id="console">
+        <h2>Console</h2>
+        <p>O Super Mario é um jogo que foi lançado em várias plataformas de console ao longo dos anos. O jogo foi originalmente lançado para o Nintendo Entertainment System (NES), também conhecido como Famicom no Japão, em 1985. Desde então, ele foi relançado em várias outras plataformas, incluindo:
+
+Super Nintendo Entertainment System (SNES)
+Nintendo 64
+Game Boy
+Nintendo GameCube
+Nintendo DS
+Wii
+Nintendo 3DS
+Wii U
+Nintendo Switch</p>
+    </section>
+
+    <section id="especificacoes">
+        <h2>Especificações Técnicas</h2>
+        <p>Requisitos Mínimos do Sistema:
+
+Console: Nintendo Entertainment System (NES)
+Controlador: Gamepad padrão do NES
+Gráficos:
+
+Resolução: 256x240 pixels
+Paleta de cores: 52 cores disponíveis simultaneamente
+Estilo gráfico: 2D, com sprites animados e fundos estáticos
+Áudio:
+
+Trilha sonora composta por Koji Kondo
+Som monoaural
+Capacidade de reprodução de diversos efeitos sonoros e músicas
+Armazenamento:
+
+Cartucho de jogo ROM de 8 bits
+Capacidade de armazenamento do cartucho: Geralmente entre 256KB e 1MB
+Jogabilidade:
+
+Jogo de plataforma 2D
+Controles simples: Movimento para a esquerda/direita, pulo e correr
+Inclui mecânicas de power-ups, como Super Mushroom, Fire Flower e Starman
+Performance:
+
+Taxa de quadros: Geralmente 60 quadros por segundo (FPS), com variações dependendo da quantidade de elementos na tela.</p>
+    </section>
+
+    <section id="como-jogar">
+        <h2>Como Jogar</h2>
+        <p>Objetivo do Jogo:
+
+O objetivo principal do Super Mario Bros. é guiar o personagem Mario através de vários níveis do Reino do Cogumelo para resgatar a Princesa Peach das garras do vilão Bowser.
+Controles Básicos:
+
+Movimento: Use o direcional no controle para mover o Mario para a esquerda ou direita.
+Pulo: Pressione o botão "A" para fazer o Mario pular. A altura do pulo pode variar dependendo de quanto tempo você mantém o botão pressionado.
+Coleta de Moedas e Power-Ups:
+
+Ao longo dos níveis, você encontrará moedas e blocos que podem conter power-ups, como Super Mushrooms e Fire Flowers.
+Moedas: Colete moedas para ganhar vidas extras. A cada 100 moedas coletadas, você ganha uma vida extra.
+Power-Ups: Os power-ups podem conceder habilidades especiais ao Mario, como crescer de tamanho com o Super Mushroom ou lançar bolas de fogo com o Fire Flower.
+Inimigos e Obstáculos:
+
+O Reino do Cogumelo está cheio de inimigos e obstáculos que tentarão impedir o progresso do Mario.
+Alguns inimigos podem ser derrotados ao pular em cima deles, enquanto outros podem ser derrotados lançando bolas de fogo.
+Obstáculos como poços, lava e espinhos devem ser evitados para não perder vidas.
+Bandeirola de Fim de Nível:
+
+No final de cada nível, você encontrará uma bandeirola. Pule na bandeirola para completar o nível e avançar para o próximo.
+Warps e Segredos:
+
+Em alguns níveis, há segredos, como tubos verdes que levam a áreas secretas ou warp zones que podem levá-lo adiante no jogo.
+Explore bem os níveis para encontrar esses segredos e obter vantagens.
+Vidas Extras:
+
+Você começa o jogo com um número limitado de vidas. Ao longo do jogo, você pode ganhar vidas extras coletando moedas, encontrando power-ups e derrotando inimigos.
+</p>
+    </section>
+
+    <section id="imagens2">
+         <img src=https://papeldeparededigital.com.br/10761-medium_default/papel-de-parede-foto-mural-infantil-personagens-jogo-mario-bros.jpg>
+      
+    </section>
+    
+    
+</main>
+
+<footer>
+    <p>&copy; 2024 Super Mario Fan Club</p>
+</footer>
+
+</body>
+</html>
+
+
+
+
+
+
+
+CSS
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0099ff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+  position: relative;
+  bottom: 50px;
+  margin: 0;
+  font-size: 50px;
+}
+header img{
+  height: 100px;
+  border-radius: 50%;
+  position: relative;
+  right: 40vw;
+  top: 60px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+        position: relative;
+    bottom: 40px;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 30px;
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000000;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #ff0000;
+    color: #000000;
+    text-align: center;
+    padding: 10px 0;
+    
+}
+#imagens img{
+  position: relative;
+  left: 200px;
+  align-items: center;
+  height: 500px;
+}
+#imagens2 img {
+  position: relative;
+  left: 300px;
+  height: 400px;
+  width: 500px;
+}
+	
+
+	
